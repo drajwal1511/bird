@@ -1,4 +1,4 @@
-# bird
+# Bird
 # Note
 You can see the output in console as well as alert dialog box.   
 # Problem
