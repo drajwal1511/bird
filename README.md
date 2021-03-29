@@ -2,7 +2,9 @@
 # Note
 You can see the output in console as well as alert dialog box.   
 # Problem
-![image](https://user-images.githubusercontent.com/44205030/112805536-51afcc80-9093-11eb-9379-70b6260074ba.png)   
+![image](https://user-images.githubusercontent.com/44205030/112805536-51afcc80-9093-11eb-9379-70b6260074ba.png) 
+# Flowchart
+![image](https://user-images.githubusercontent.com/44205030/112811281-858df080-9099-11eb-85d5-77f95cc05e7f.png)   
 # Code
 setTimeout(bird,1000);   
 function bird(){   
